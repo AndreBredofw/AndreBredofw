@@ -1,4 +1,4 @@
-### Olá! Eu sou o André Bredofw 😎
+### Olá! Eu sou o André Bredofw e seja bem-vindo ao meu repositório do GitHUb😎
 
 ![AndreBredofw GitHub stats](https://github-readme-stats.vercel.app/api?username=andrebredofw&show_icons=true&theme=tokyonight)
 
